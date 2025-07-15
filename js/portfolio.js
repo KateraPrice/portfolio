@@ -6,10 +6,10 @@ const projects = [
     link: "https://github.com/kateraprice/meme-generator"
   },
   {
-    title: "Caesar Cipher",
+    title: "Caesar Tradional Party",
     description: "Encrypt and decrypt messages with the Caesar Cipher technique.",
     image: "https://via.placeholder.com/300x200/4C5C52/ffffff?text=Caesar+Cipher",
-    link: "https://github.com/kateraprice/ceaser-cipher"
+    link: "https://github.com/KateraPrice/Caesar-s-Traditional-Secret-Party"
   },
   {
     title: "Skincare Jeopardy",
